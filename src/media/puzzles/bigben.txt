@@ -1,0 +1,13 @@
+sprite:puzzles/bigben.png
+mask:puzzles/bigben_mask.png
+bg:puzzles/bigben_bg.png
+bomb:0
+build:350
+buildC:149,141,0
+waterC:84,109,142
+droplets:400
+dropletsReq:200
+timeStart:10
+timeLevel:25
+pointsA:500
+pointsB:300

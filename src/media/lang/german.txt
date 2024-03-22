@@ -1,0 +1,12 @@
+///header line
+1]Niveau ausw#hlen
+2]Wie man spielt
+3]&ber
+4]Sprache w#hlen
+5]ANGEHALTEN
+6]BESTE: 
+7]NEUER HIGH-SCORE
+8]FEHLER
+9]ERFOLG
+10]Tippen To Begin
+11]Verladung

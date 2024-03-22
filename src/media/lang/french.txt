@@ -1,0 +1,12 @@
+///header line
+1]S$lection du niveau
+2]Comment jouer
+3]Sur
+4]S$lectionner la langue
+5]PAUSE
+6]MEILLEUR: 
+7]UN SCORE 'LEV'
+8]PANNE
+9]SUCC(
+10]Tapotez pour d$buter
+11]Chargement

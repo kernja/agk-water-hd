@@ -1,0 +1,13 @@
+sprite:puzzles/chalice.png
+mask:puzzles/chalice_mask.png
+bg:puzzles/chalice_bg.png
+bomb:150
+build:0
+buildC:255,242,0
+waterC:255,255,255
+droplets:400
+dropletsReq:200
+timeStart:5
+timeLevel:25
+pointsA:500
+pointsB:300

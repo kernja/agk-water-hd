@@ -1,0 +1,13 @@
+sprite:puzzles/mountain.png
+mask:puzzles/mountain_mask.png
+bg:puzzles/mountain_bg.png
+bomb:350
+build:150
+buildC:55,45,38
+waterC:235,235,235
+droplets:400
+dropletsReq:200
+timeStart:10
+timeLevel:25
+pointsA:500
+pointsB:300

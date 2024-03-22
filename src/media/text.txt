@@ -1,0 +1,21 @@
+Level Select		Seleccionar nivel		Niveau auswählen	Sélection du niveau
+How to Play		Cómo jugar			Wie man spielt		Comment jouer
+About			Acerca de			über			sur
+Language Select		Language elegir			Sprache wählen		sélectionner la langue
+PAUSED			EN PAUSE			Angehalten		PAUSE
+BEST			Mejor				BESTE			MEILLEUR
+NEW HIGH SCORE		NUEVA PUNTUACIóN111		Neuer High-Score	Nouveau score élevé
+FAILURE			FRACASO				FEHLER			PANNE
+SUCCESS			ÉXITO				ERFOLG			SUCCÈS
+Tap To Begin		Pulse para comenzar		Tippen To Begin		Tapotez pour débuter
+Now Loading		Ya Cargando			Verladung		Chargement
+
+
+
+objective		Objetivo			ZIEL			OBJECTIF
+erase			Borrar				LöSCHEN			effacer
+PAINT			Pintar				MALENS			peindre
+GOAL			Terminar			GOAL			SE TERMINER
+
+äéóüÉÈöó
+lllUUUUU

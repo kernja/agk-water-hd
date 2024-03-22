@@ -1,0 +1,18 @@
+Level Select
+How to Play
+About
+Tap Screen to Begin
+Success
+Failure
+New High Score
+Paused
+Best (As in, "Best: 123,456")
+Objective
+Draw
+Erase
+Goal
+Graphics courtesy of:
+Sounds courtesy of:
+Thank you to:
+Copyright 2013 "Bukket Games"
+Made with the s"App Game Kit" from "The Game Creators"

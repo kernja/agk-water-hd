@@ -1,0 +1,13 @@
+sprite:puzzles/palm.png
+mask:puzzles/palm_mask.png
+bg:puzzles/palm_bg.png
+bomb:350
+build:150
+buildC:255,242,0
+waterC:0,0,255
+droplets:400
+dropletsReq:200
+timeStart:10
+timeLevel:25
+pointsA:500
+pointsB:300

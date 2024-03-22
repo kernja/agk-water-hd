@@ -1,0 +1,12 @@
+///header line
+1]Seleccionar nivel
+2]C%mo jugar
+3]Acerca de
+4]Language elegir
+5]EN PAUSE
+6]MEJOR: 
+7]NUEVA PUNTUACI*N
+8]FRACASO
+9]'XITO
+10]Pulse para comenzar
+11]Ya cargando

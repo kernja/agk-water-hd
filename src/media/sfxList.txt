@@ -1,0 +1,7 @@
+10,sfx/highscore.wav
+11,sfx/shout.wav
+12,sfx/fail.wav
+20,sfx/score0.wav
+21,sfx/score1.wav
+22,sfx/score2.wav
+23,sfx/score3.wav

@@ -1,0 +1,13 @@
+sprite:puzzles/test.png
+mask:puzzles/test_mask.png
+bg:puzzles/test_bg.png
+bomb:350
+build:125
+buildC:147,86,57
+waterC:255,249,189
+droplets:400
+dropletsReq:200
+timeStart:8
+timeLevel:25
+pointsA:500
+pointsB:300
