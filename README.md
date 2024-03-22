@@ -1,6 +1,6 @@
 # WATER HD
 
-Written in App Game Kit Classic (v1.89), WATER HD was inspired by the DOS puzzle game [H2O](https://www.youtube.com/watch?v=zf-pR9MNmMI). Although incomplete, WATER HD boasts several improvements over its predecessor [WATER](https://www.github.com/kernja/water):
+Written in App Game Kit Classic (v1.89), WATER HD was inspired by the DOS puzzle game [H2O](https://www.youtube.com/watch?v=zf-pR9MNmMI). Although incomplete, WATER HD boasts several improvements over its predecessor [WATER](https://www.github.com/kernja/agk-water):
 
 * Language select
 * Supports multiple device sizes and orientations
